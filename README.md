@@ -1,3 +1,3 @@
 # Tempest_Weather
-Weather app
+# Weather App
 After cloning, replace {} with API token
